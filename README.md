@@ -1,2 +1,2 @@
-<a <img align="right" width="300" height="325" alt="Meursault's Intro" src="https://cdn.discordapp.com/attachments/1468578218872410326/1469718179222913188/Untitled514_20260208013507.jpg?ex=6988ad37&is=69875bb7&hm=70147e8a8ed7e320a73b229c0850d370c451211b9c2de613638d80ee4188df82&"/>
-href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tiny5&size=30&duration=1500&pause=1000&color=293b95&center=true&multiline=true&width=435&height=79&lines=I+like+txt+txt;txt+txt+txt+txt" alt="Typing SVG" /></a>
+<img align="right" width="300" height="325" alt="title here" src="yourimagelink"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tiny5&size=30&duration=1500&pause=1000&color=ff3d64&center=true&multiline=true&width=435&height=79&lines=txt+txt+txt+txt;txt+txt+txt+txt" alt="Typing SVG" /></a>
