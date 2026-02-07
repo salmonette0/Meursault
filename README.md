@@ -1,2 +1,2 @@
 <img align="right" width="300" height="325" alt="title here" src="https://cdn.discordapp.com/attachments/1468578218872410326/1469719560083996843/Untitled514_20260208014042.jpg?ex=6988ae81&is=69875d01&hm=addc59e2537109b5c4eb95e3156d65333a3949ce3dce43267b8b690030f54733&"/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tiny5&size=30&duration=1500&pause=1000&color=293b95&center=true&multiline=true&width=435&height=79&lines=txt+txt+txt+txt;txt+txt+txt+txt" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tiny5&size=30&duration=1500&pause=1000&color=293b95&center=false&multiline=true&width=435&height=79&lines=txt+txt+txt+txt;txt+txt+txt+txt" alt="Typing SVG" /></a>
