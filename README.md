@@ -1,1 +1,1 @@
-# Meursault
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tiny5&size=30&duration=1500&pause=1000&color=ff3d64&center=true&multiline=true&width=435&height=79&lines=txt+txt+txt+txt;txt+txt+txt+txt" alt="Typing SVG" /></a>
